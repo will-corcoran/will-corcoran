@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @will-corcoran  (will@stacks.org)
-- 👀 I’m a mission-driven, serial collaborator with 15+ years of experience in product and project management in the technology and architectural industries. I have a sincere passion for managing complexity and the iterative product development process. 
-
-- Oh, and I have a profound, undying love for Bitcoin. <3
+🌐 Ecosystem Program Manager @ Stacks Foundation
+📈 Aspiring Data Scientist & AI Enthusiast
+🔍 Mastering AI-Blockchain Fusion
+💡 Passionate about Decentralized Tech & Innovation
+🚀 Driving Transformative Blockchain Analysis
